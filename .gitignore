@@ -1,0 +1,7 @@
+/.dart_tool/
+
+/.vscode/*
+!/.vscode/extensions.json
+!/.vscode/settings.json
+
+/.packages
