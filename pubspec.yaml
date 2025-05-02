@@ -1,0 +1,9 @@
+name: dart
+
+environment:
+  sdk: ^2.12.0
+
+dependencies:
+
+dev_dependencies:
+  pedantic: ^1.11.0
